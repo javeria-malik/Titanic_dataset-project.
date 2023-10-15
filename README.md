@@ -1,4 +1,6 @@
-# Titanic_dataset-project.:This project aims to predict whether passengers on the Titanic survived or not based on various features such as class, gender, age, and fare. The dataset used for this analysis is the famous Titanic dataset.
+# Titanic_dataset-project.:
+codesoft first project 
+This project aims to predict whether passengers on the Titanic survived or not based on various features such as class, gender, age, and fare. The dataset used for this analysis is the famous Titanic dataset.
 Dataset
 The dataset for this project can be found in the 'titanic.csv' file. It contains the following columns:
 
